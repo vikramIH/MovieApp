@@ -36,16 +36,11 @@ public BootstrapDB(MovieRepository movieRepository) {
 //
 //	}
 	
-	Movie.builder()
-		        .id(13)
-			    .title("Return of the Flux")
-			    .genre("Sci-fi")
-			    .director("yavano obba")
-			    .year("1975").build();  
+	 
 
 }
 
-}
+
 
 
 
