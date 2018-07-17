@@ -15,8 +15,8 @@ public class MovieAppApplicationTests {
 	public void contextLoads() {
 	}
 
-	@Test
-    public void fakeTest(){
-        assertTrue(true);
-    }
+//	@Test
+//    public void fakeTest(){
+//        assertTrue(true);
+//    }
 }
