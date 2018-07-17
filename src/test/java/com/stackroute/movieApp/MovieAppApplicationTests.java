@@ -1,5 +1,7 @@
 package com.stackroute.movieApp;
 
+import static org.junit.Assert.assertTrue;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -13,4 +15,8 @@ public class MovieAppApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+    public void fakeTest(){
+        assertTrue(true);
+    }
 }
